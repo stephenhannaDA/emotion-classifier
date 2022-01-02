@@ -7,3 +7,4 @@ The model uses the LittleVGG architecture consisting of CNN Layers, Max Pooling,
 ![image](https://user-images.githubusercontent.com/73045342/147864228-8df91e95-88e6-483c-8563-4b95891649d7.png)
 
 
+The model will be temporarily be hosted on an AWS EC2 instance at http://18.144.27.26:5000/ or at the request of a user.
